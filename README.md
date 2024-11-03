@@ -12,6 +12,11 @@ This project represents a modern, responsive personal portfolio website that sho
 The portfolio website aims to create a dynamic digital platform where my skills and work are presented professionally. Using a sleek, dark-themed interface accented by a vibrant orange hue, the site highlights essential information about my background, services, and projects. Each element is thoughtfully animated to enhance the user experience, and a consistent visual style reinforces my brand identity.
 
 ---
+## Featured LinkedIn Post
+
+Check out my LinkedIn post for more video
+
+> [**View the LinkedIn post**](https://www.linkedin.com/feed/update/urn:li:ugcPost:7258862099106254848)
 
 ## ✅Key Features
 
