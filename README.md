@@ -1,10 +1,12 @@
 
-# Himel Sarder - Portfolio Website
+#Portfolio Website
 
 This project represents a modern, responsive personal portfolio website that showcases my work as a creative web designer and developer. It serves as an online presence for anyone interested in learning about my background, exploring my projects, and reaching out for collaboration or inquiries. The website combines a visually engaging design with ease of navigation, providing an interactive experience for visitors.
 
----
+![image](https://github.com/user-attachments/assets/d47c114f-0981-4867-9e5d-0d08d78d5b4d)
 
+---
+## Live Demo : [Click here](https://himel-sarder.github.io/Personal-Portfolio-using-Tailwind-CSS/)
 ## Project Vision
 
 The portfolio website aims to create a dynamic digital platform where my skills and work are presented professionally. Using a sleek, dark-themed interface accented by a vibrant orange hue, the site highlights essential information about my background, services, and projects. Each element is thoughtfully animated to enhance the user experience, and a consistent visual style reinforces my brand identity.
@@ -53,7 +55,7 @@ The design is focused on creating a streamlined yet visually striking interface:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/username/himel-portfolio.git
+   git clone https://github.com/Himel-Sarder/Personal-Portfolio-using-Tailwind-CSS.git
    ```
 2. **Open the `index.html` file** in your preferred browser to view the site locally.
 
@@ -66,3 +68,5 @@ The design is focused on creating a streamlined yet visually striking interface:
 - **Backend Integration:** Adding a contact form with a backend to handle messages.
 - **Project Section**: Dynamically update with new projects using a CMS or static JSON files.
 - **SEO Optimization**: Enhance metadata and accessibility to improve search visibility.
+
+# Thank You 😻🤍
