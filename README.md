@@ -6,14 +6,14 @@ This project represents a modern, responsive personal portfolio website that sho
 ![image](https://github.com/user-attachments/assets/d47c114f-0981-4867-9e5d-0d08d78d5b4d)
 
 ---
-## Live Demo : [Click here](https://himel-sarder.github.io/Personal-Portfolio-using-Tailwind-CSS/)
-## Project Vision
+## ✅Live Demo : [Click here](https://himel-sarder.github.io/Personal-Portfolio-using-Tailwind-CSS/)
+## ✅Project Vision
 
 The portfolio website aims to create a dynamic digital platform where my skills and work are presented professionally. Using a sleek, dark-themed interface accented by a vibrant orange hue, the site highlights essential information about my background, services, and projects. Each element is thoughtfully animated to enhance the user experience, and a consistent visual style reinforces my brand identity.
 
 ---
 
-## Key Features
+## ✅Key Features
 
 ### 1. **Interactive Header with Navigation**
    - **Logo and Navigation:** At the top, the header includes my logo, “Himel🐦‍🔥,” and navigation links. Each link has an animated underline effect, enhancing the interaction and making it easy for visitors to explore various sections such as Home, Services, Projects, About, and Contacts.
@@ -32,7 +32,7 @@ The portfolio website aims to create a dynamic digital platform where my skills 
 
 ---
 
-## Technologies Used
+## ✅Technologies Used
 
 1. **HTML** for structuring content.
 2. **CSS with Tailwind** for styling, animations, and layout, allowing rapid prototyping with a clean and organized design.
@@ -42,7 +42,7 @@ The portfolio website aims to create a dynamic digital platform where my skills 
 
 ---
 
-## Design Highlights
+## ✅Design Highlights
 
 The design is focused on creating a streamlined yet visually striking interface:
 - **Dark Background with Accents:** The background combines a deep color (#06070c) with bright orange accents (#ff6633), creating a modern contrast.
@@ -51,7 +51,7 @@ The design is focused on creating a streamlined yet visually striking interface:
 
 ---
 
-## Getting Started
+## ✅Getting Started
 
 1. **Clone the Repository**
    ```bash
@@ -63,7 +63,7 @@ The design is focused on creating a streamlined yet visually striking interface:
 
 ---
 
-## Future Enhancements
+## ✅Future Enhancements
 
 - **Backend Integration:** Adding a contact form with a backend to handle messages.
 - **Project Section**: Dynamically update with new projects using a CMS or static JSON files.
